@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: zouye
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: liuxiang2
+Implementation-Vendor-Id: com.snbc.timer
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
